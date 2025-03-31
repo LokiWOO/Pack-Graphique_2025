@@ -1,4 +1,4 @@
-# 🎨 Pack-Graphique_2025 - by Lokiwoo  
+# 🎨 Pack-Graphique_2025 -FiveM Graphics Mod-
 
 ## 🚀 Présentation  
 Pack-Graphique_2025 est un pack graphique conçu pour FiveM, améliorant l’éclairage, les ombres et les textures pour une immersion maximale.  
